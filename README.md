@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Khalid 👋
+🎓 Software Engineering Student (6th Semester) at Riphah International University  
+📱 Mobile Application Developer (Kotlin & Flutter)  
+🚀 Passionate about building Android apps and cross-platform solutions  
 
-<!--
-**idevkhalid/idevkhalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Skills
+- Kotlin | Flutter | Dart
+- Android Studio | Firebase | REST APIs
+- Git | GitHub | Agile
 
-Here are some ideas to get you started:
+### 📌 Projects
+- [Weather App in Kotlin](github.com/idevkhalid/weatherapp)
+- [Flutter Notes App](github.com/idevkhalid/flutter-notes)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📫 Connect with Me
+- LinkedIn: linkedin.com/in/
+- Email: khalidhussaink895@gmail.com
